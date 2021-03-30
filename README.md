@@ -15,7 +15,7 @@
   * [Marching-Cubes][8] - github repo
 * [Marching Squares - HandWiki][10]
 * [Marching Cubes][11] - Unice PolyTech
-
+-----------
 
 ### Examples:
 * [Jacob Zelko - Marching Squares][9]
@@ -25,6 +25,19 @@
 * [Basi Diomy Cody - k3Beoweuf][15]
 * [Joe Wadsorth - Marching-Squares][16]
 * [KinecticAtic - Marching Cubes JS][17]
+
+---------
+### Snaps
+![Jacob Zelko](_imgs/jacob_zelko-marching_squares.png)
+![Mortis GrimReaper](_imgs/mortis_grimreaper-meatballs.png)
+![Una Luz](_imgs/una_luz-marching_squares.png)
+![k3beoweuf](_imgs/basi-diomy-cody-k3beoweuf.png)
+![Joes Wadsworth](_imgs/joe_wadsworth-marching_squares.png)
+![KinecticAtic](_imgs/kinecticatic-marching_cubes_js.png)
+![Unice PolyTech](_imgs/unice_polytech-marching_cubes-01.png)
+![Unice PolyTech](_imgs/unice_polytech-marching_cubes-02.png)
+![Unice PolyTech](_imgs/unice_polytech-marching_cubes-03.png)
+![Unice PolyTech](_imgs/unice_polytech-marching_cubes-04.png)
 
 
 
