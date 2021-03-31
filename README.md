@@ -5,7 +5,7 @@
 
 ### Ref:
 * [Marching Cubes: A High Resolution 3D Surface Construction Algorithm][3] - by William E. Lorensen , Harvey E. Cline (SIGGRAPH 1987)
-<a href="./87_Lorensen_MarchingCubes.pdf"><img style="border:2px solid black;" align="right" src="_imgs/lorensen_cline-siggraph.png" width="400"/></a>
+<a href="./87_Lorensen_MarchingCubes.pdf"><img style="border:2px solid black;" align="right" src="_imgs/lorensen_cline-siggraph.png" width="300"/></a>
 
 * [Marching Squares Algorithm - Tutorial][1] - Logun Ruf - CKC (2020_11)
 * [Coding in the Cabana 5: Marching Squares][2] - Shiffman
